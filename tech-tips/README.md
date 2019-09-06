@@ -1,0 +1,1 @@
+This is a front end side of the Tech Tips project for the Bear-Team-15 Chingu Voyage 11
